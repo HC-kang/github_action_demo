@@ -1,6 +1,6 @@
 function factorial(n) {
   if (n < 0) {
-    throw new Error('"Factorial is only defined for non-negative integers');
+    throw new Error('"Factorial is only defined for non-negative integers2');
   }
 
   if (n === 0) {
